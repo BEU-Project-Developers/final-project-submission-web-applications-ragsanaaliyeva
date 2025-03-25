@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FurnitureManagementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FurnitureManagementSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\bag.svg",
+      "PackagePath": "staticwebassets\\images\\bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\cart.svg",
+      "PackagePath": "staticwebassets\\images\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\couch.png",
+      "PackagePath": "staticwebassets\\images\\couch.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\cross.svg",
+      "PackagePath": "staticwebassets\\images\\cross.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\dots-green.svg",
+      "PackagePath": "staticwebassets\\images\\dots-green.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\dots-light.svg",
+      "PackagePath": "staticwebassets\\images\\dots-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\dots-yellow.svg",
+      "PackagePath": "staticwebassets\\images\\dots-yellow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\envelope-outline.svg",
+      "PackagePath": "staticwebassets\\images\\envelope-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\img-grid-1.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\img-grid-2.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\img-grid-3.jpg",
+      "PackagePath": "staticwebassets\\images\\img-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\person-1.png",
+      "PackagePath": "staticwebassets\\images\\person-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\post-1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\post-2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\post-3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\product-1.png",
+      "PackagePath": "staticwebassets\\images\\product-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\product-2.png",
+      "PackagePath": "staticwebassets\\images\\product-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\product-3.png",
+      "PackagePath": "staticwebassets\\images\\product-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\return.svg",
+      "PackagePath": "staticwebassets\\images\\return.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\sofa.png",
+      "PackagePath": "staticwebassets\\images\\sofa.png"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\support.svg",
+      "PackagePath": "staticwebassets\\images\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\images\\why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets\\images\\why-choose-us-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FurnitureManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FurnitureManagementSystem.props",
+      "PackagePath": "build\\FurnitureManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FurnitureManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\FurnitureManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FurnitureManagementSystem.props",
+      "PackagePath": "buildTransitive\\FurnitureManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
