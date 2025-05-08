@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Baku\\.nuget\\packages\\": {}
+    "C:\\Users\\Razil\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\FurnitureManagementSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Razil\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\FurnitureManagementSystem.csproj",
       "projectName": "FurnitureManagementSystem",
-      "projectPath": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\FurnitureManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\Baku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Baku\\Desktop\\Tabriz WS Files\\FurnitureManagementSystem\\FurnitureManagementSystem\\obj\\",
+      "projectPath": "C:\\Users\\Razil\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\FurnitureManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\Razil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Razil\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Baku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Razil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,7 +50,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -69,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

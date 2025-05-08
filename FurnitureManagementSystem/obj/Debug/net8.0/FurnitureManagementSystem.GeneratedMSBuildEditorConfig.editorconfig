@@ -9,59 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FurnitureManagementSystem
 build_property.RootNamespace = FurnitureManagementSystem
-build_property.ProjectDir = C:\Users\Baku\Desktop\Tabriz WS Files\FurnitureManagementSystem\FurnitureManagementSystem\
+build_property.ProjectDir = C:\Users\Razil\Desktop\FurnitureManagementSystem\FurnitureManagementSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Baku\Desktop\Tabriz WS Files\FurnitureManagementSystem\FurnitureManagementSystem
+build_property.MSBuildProjectDirectory = C:\Users\Razil\Desktop\FurnitureManagementSystem\FurnitureManagementSystem
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/About/Index.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/AboutUs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/AboutUs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/AboutUs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/AboutUs/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Blog/Index.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Cart/Index.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Checkout/Index.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Checkout/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hlY2tvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Contact/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Home/Index.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Services/Index.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Shop/Index.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/_ViewImports.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Testimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/_ViewStart.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Baku/Desktop/Tabriz WS Files/FurnitureManagementSystem/FurnitureManagementSystem/Views/Shared/_Layout.cshtml]
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-69bl9erbq9
+
+[C:/Users/Razil/Desktop/FurnitureManagementSystem/FurnitureManagementSystem/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1ehwaq10fx
