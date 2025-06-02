@@ -71,8 +71,8 @@ wwwroot\admin\images\faces\face7.jpg
 wwwroot\admin\images\faces\face8.jpg
 wwwroot\admin\images\faces\face9.jpg
 wwwroot\admin\images\favicon.png
-wwwroot\admin\images\logo-mini.svg
 wwwroot\admin\images\logo.svg
+wwwroot\admin\images\logo-mini.svg
 wwwroot\admin\images\software_village_cover.jpg
 wwwroot\admin\js\chart.js
 wwwroot\admin\js\Chart.min.js
@@ -89,9 +89,9 @@ wwwroot\admin\js\template.js
 wwwroot\admin\vendors\base\vendor.bundle.base.css
 wwwroot\admin\vendors\base\vendor.bundle.base.js
 wwwroot\admin\vendors\chart.js\Chart.min.js
+wwwroot\admin\vendors\datatables.net\jquery.dataTables.js
 wwwroot\admin\vendors\datatables.net-bs4\dataTables.bootstrap4.css
 wwwroot\admin\vendors\datatables.net-bs4\dataTables.bootstrap4.js
-wwwroot\admin\vendors\datatables.net\jquery.dataTables.js
 wwwroot\admin\vendors\mdi\css\materialdesignicons.min.css
 wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.eot
 wwwroot\admin\vendors\mdi\fonts\materialdesignicons-webfont.svg
@@ -112,11 +112,11 @@ wwwroot\assets\images\envelope-outline.svg
 wwwroot\assets\images\img-grid-1.jpg
 wwwroot\assets\images\img-grid-2.jpg
 wwwroot\assets\images\img-grid-3.jpg
-wwwroot\assets\images\person-1.png
 wwwroot\assets\images\person_1.jpg
 wwwroot\assets\images\person_2.jpg
 wwwroot\assets\images\person_3.jpg
 wwwroot\assets\images\person_4.jpg
+wwwroot\assets\images\person-1.png
 wwwroot\assets\images\post-1.jpg
 wwwroot\assets\images\post-2.jpg
 wwwroot\assets\images\post-3.jpg

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Migrations\\20250602195503_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurnitureManagementSystem\\Migrations\\20250602195503_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Controllers\\GalleryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurnitureManagementSystem\\Controllers\\GalleryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\areas\\admin\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\areas\\admin\\views\\aboutus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\areas\\admin\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\areas\\admin\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +27,24 @@
       "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\areas\\admin\\views\\aboutus\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\areas\\admin\\views\\aboutus\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Controllers\\AboutUsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurnitureManagementSystem\\Areas\\Admin\\Controllers\\AboutUsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\areas\\admin\\views\\aboutus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\areas\\admin\\views\\aboutus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\areas\\admin\\views\\aboutus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\areas\\admin\\views\\aboutus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,24 +54,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250602195503_db.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Migrations\\20250602195503_db.cs",
+              "RelativeDocumentMoniker": "FurnitureManagementSystem\\Migrations\\20250602195503_db.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Migrations\\20250602195503_db.cs",
+              "RelativeToolTip": "FurnitureManagementSystem\\Migrations\\20250602195503_db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:55:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "FurnitureManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\appsettings.json",
+              "RelativeToolTip": "FurnitureManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T19:47:00.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GalleryController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Controllers\\GalleryController.cs",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Controllers\\GalleryController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Controllers\\GalleryController.cs",
               "RelativeToolTip": "FurnitureManagementSystem\\Controllers\\GalleryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T14:15:10.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-01T14:15:10.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Program.cs",
@@ -75,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AboutUsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Controllers\\AboutUsController.cs",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Controllers\\AboutUsController.cs",
@@ -111,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Update.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Update.cshtml",
@@ -123,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Index.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Index.cshtml",
@@ -135,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Delete.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Delete.cshtml",
@@ -147,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Create.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Create.cshtml",
