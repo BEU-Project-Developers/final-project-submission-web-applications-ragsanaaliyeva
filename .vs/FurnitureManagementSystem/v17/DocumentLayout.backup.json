@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\controllers\\gallerycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|c:\\users\\hp\\desktop\\furnituremanagementsystem\\furnituremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E16F2BF5-C7A1-4F1A-9360-72B8784C8A65}|FurnitureManagementSystem\\FurnitureManagementSystem.csproj|solutionrelative:furnituremanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GalleryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Controllers\\GalleryController.cs",
+              "RelativeDocumentMoniker": "FurnitureManagementSystem\\Controllers\\GalleryController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Controllers\\GalleryController.cs",
+              "RelativeToolTip": "FurnitureManagementSystem\\Controllers\\GalleryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:15:10.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Program.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "FurnitureManagementSystem\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:13:28.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T15:13:28.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AboutUsController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Controllers\\AboutUsController.cs",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Controllers\\AboutUsController.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "About.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Models\\About.cs",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Models\\About.cs",
@@ -83,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -95,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Update.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Update.cshtml",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Index.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Index.cshtml",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Delete.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Delete.cshtml",
@@ -131,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\FurnitureManagementSystem\\FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Create.cshtml",
               "RelativeDocumentMoniker": "FurnitureManagementSystem\\Areas\\Admin\\Views\\AboutUs\\Create.cshtml",

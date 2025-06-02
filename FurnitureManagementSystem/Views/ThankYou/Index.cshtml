@@ -1,0 +1,58 @@
+﻿@* Views/ThankYou/Index.cshtml *@
+@{
+    ViewData["Title"] = "Order Confirmation";
+    var orderId = ViewBag.OrderId;
+    var successMessage = ViewBag.SuccessMessage as string;
+}
+
+<!-- Start Hero Section -->
+<div class="hero">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-5">
+                <div class="intro-excerpt">
+                    <h1>@ViewData["Title"]</h1>
+                    @if (!string.IsNullOrEmpty(successMessage))
+                    {
+                        <p class="lead">@successMessage</p>
+                    }
+                </div>
+            </div>
+            <div class="col-lg-7">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Hero Section -->
+
+<div class="untree_co-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center pt-5">
+                <span class="display-3 thankyou-icon text-primary">
+                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-cart-check-fill mb-5" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                        @* SVG ikonu dəyişdirildi *@
+                        <path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1H.5zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z" />
+                        <path d="M11.354 5.646a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L8 8.293l2.646-2.647a.5.5 0 0 1 .708 0z" />
+                    </svg>
+                </span>
+                <h2 class="display-3 text-black">Thank you!</h2>
+                @if (orderId != null)
+                {
+                    <p class="lead mb-5">Your order #@orderId has been successfully placed.</p>
+                }
+                else if (!string.IsNullOrEmpty(successMessage)) // Əgər OrderId yoxdursa, amma mesaj varsa
+                {
+                    <p class="lead mb-5">@successMessage</p>
+                }
+                else // Heç bir məlumat yoxdursa
+                {
+                    <p class="lead mb-5">Your request has been processed.</p>
+                }
+                <p><a asp-controller="Shop" asp-action="Index" class="btn btn-sm btn-outline-black">Back to shop</a></p>
+                @* İstifadəçinin sifarişlərini görə biləcəyi bir səhifəyə link (əgər varsa) *@
+                @* <p><a asp-controller="Order" asp-action="MyOrders" class="btn btn-sm btn-black">View My Orders</a></p> *@
+            </div>
+        </div>
+    </div>
+</div>

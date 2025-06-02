@@ -1,0 +1,47 @@
+﻿@model FurnitureManagementSystem.Models.About
+@{
+    ViewData["Title"] = "Yeni Haqqımızda Məlumatı";
+}
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-8 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">@ViewData["Title"]</h4>
+                        @* ƏSAS FƏRQ BURADADIR: enctype="multipart/form-data" *@
+                        <form class="forms-sample" asp-action="Create" method="post" enctype="multipart/form-data">
+                            @Html.AntiForgeryToken()
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                            <div class="form-group">
+                                <label asp-for="Photo">Əsas Şəkil</label>
+                                <input asp-for="Photo" type="file" class="form-control" />
+                                <span asp-validation-for="Photo" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Title">Əsas Başlıq</label>
+                                <input asp-for="Title" class="form-control" />
+                                <span asp-validation-for="Title" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Subtitle">Əsas Altbaşlıq</label>
+                                <input asp-for="Subtitle" class="form-control" />
+                                <span asp-validation-for="Subtitle" class="text-danger"></span>
+                            </div>
+
+                            @* ... Digər Xüsusiyyətlər ... *@
+
+                            <button type="submit" class="btn btn-primary me-2">Yadda saxla</button>
+                            <a asp-action="Index" class="btn btn-light">Ləğv et</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

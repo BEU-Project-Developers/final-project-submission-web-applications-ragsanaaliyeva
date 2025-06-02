@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace FurnitureManagementSystem.Models
 {
@@ -14,6 +15,7 @@ namespace FurnitureManagementSystem.Models
         public string Subtitle { get; set; }
 
         public string ImagePath { get; set; }
+        [NotMapped]
         public IFormFile Photo { get; set; }
 
         [Required]
